@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "david",
+      "password": "123456",
+      "isAdmin": true,
+      "firstName": "David",
+      "lastName": "Nguyen",
+      "token": "Token TEST"
+    }
+  ]
+}
